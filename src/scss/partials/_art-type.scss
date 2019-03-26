@@ -1,0 +1,22 @@
+.art-type {
+    font-size: 0.8em;
+    font-family: 'Roboto-Bold' sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 5px 7px;
+    color: #fff;
+    display: inline-block;
+
+    &--unc {
+        background: #3d708b;
+    }
+
+    &--cnd {
+        background: #fc777a;
+    }
+
+    &--lvn {
+        background: #83a750;
+    }
+}
